@@ -1,0 +1,127 @@
+<view class="container">
+  <view class="header">
+    <text class="title">寰才智聘隐私政策</text>
+    <text class="update-time">最后更新时间：2025年12月22日</text>
+  </view>
+  
+  <scroll-view class="content" scroll-y="true">
+    <view class="section">
+      <text class="paragraph">寰才智聘（以下简称"我们"）高度重视用户隐私保护，严格遵守《中华人民共和国民法典》《中华人民共和国网络安全法》《中华人民共和国个人信息保护法》等相关法律法规。本隐私政策旨在清晰说明我们如何收集、使用、存储、披露及保护您的个人信息，为您提供更准确、个性化的服务。请您仔细阅读本政策，如您继续使用我们的服务，即表示您已充分阅读、理解并同意本政策全部内容。</text>
+      <text class="paragraph">本政策适用于寰才智聘向您提供的所有服务，包括但不限于职业技能培训课程、在线学习系统、学习数据统计、证书认证申请与查询等。如特定服务有单独隐私说明，该说明构成本政策的一部分，与本政策具有同等效力。</text>
+    </view>
+
+    <view class="section">
+      <text class="section-title">一、适用范围</text>
+      <text class="paragraph">本政策所指的个人信息，是指以电子或者其他方式记录的与已识别或者可识别的自然人有关的各种信息，不包括匿名化处理后的信息。具体适用场景包括但不限于：</text>
+      <view class="list">
+        <text class="list-item">• 注册信息：您注册寰才智聘账户时，根据系统要求提供的个人信息，如姓名、性别、出生年月日、身份证号码、电话号码、电子邮箱地址等；</text>
+        <text class="list-item">• 使用过程信息：您使用我们服务时填写、提交及/或上传的信息，包括地址、职业、教育背景、个人技能、工作经历、学习记录、培训记录等，以及我们自动接收并记录的设备及网络信息，如IP地址、浏览器类型、使用语言、访问日期和时间、软硬件特征信息、网页浏览记录等；</text>
+        <text class="list-item">• 第三方来源信息：我们通过合法途径从商业伙伴处取得的、经您授权的个人数据；</text>
+        <text class="list-item">• 内容审核信息：您在平台发布的评论、问答、学习成果等内容，我们将依法进行审核，确保信息合规。</text>
+      </view>
+    </view>
+
+    <view class="section">
+      <text class="section-title">二、信息收集</text>
+      <text class="paragraph">为实现服务目的，我们仅收集为提供服务所必需的个人信息，具体收集场景及信息类型如下：</text>
+      
+      <text class="subsection-title">2.1 主动提供信息</text>
+      <text class="paragraph">您在注册账户、完善个人资料、购买课程、参与培训、申请证书认证等过程中，主动向我们提供的信息，包括但不限于姓名、身份证号码、手机号码、电子邮箱、职业信息、教育背景、学习记录等。其中，手机号码、身份证号码等为实名认证必需信息，仅用于身份核验，不用于其他无关用途。</text>
+      
+      <text class="subsection-title">2.2 自动收集信息</text>
+      <text class="paragraph">您使用我们的服务时，系统会自动收集您的设备及使用行为信息，包括IP地址、浏览器类型、操作系统版本、设备型号、访问时间、访问页面、学习时长、课程播放进度等。此类信息仅用于优化服务体验、保障服务安全、进行数据分析，不会单独识别到具体个人。</text>
+      
+      <text class="subsection-title">2.3 第三方获取信息</text>
+      <text class="paragraph">如您通过第三方平台（如微信、支付宝）登录或支付，我们会在获得您授权后，从第三方获取您的昵称、头像等基础信息，该获取行为遵循第三方平台的隐私政策，我们仅用于账户关联及服务提供。</text>
+    </view>
+
+    <view class="section">
+      <text class="section-title">三、信息使用</text>
+      <text class="paragraph">我们严格按照以下用途使用收集的个人信息：</text>
+      <view class="list">
+        <text class="list-item">• 为您提供核心服务，包括课程推送、学习进度同步、证书生成与查询、售后服务等；</text>
+        <text class="list-item">• 满足您的个性化需求，根据学习记录、偏好等推荐您可能感兴趣的课程或服务；</text>
+        <text class="list-item">• 改善服务质量，通过数据分析优化课程内容、系统功能及用户界面；</text>
+        <text class="list-item">• 保障服务安全，识别并防范欺诈、违规使用等风险，保护您的账户及财产安全；</text>
+        <text class="list-item">• 向您发送服务相关通知，如课程更新、学习提醒、账户安全提示等；如需向您发送商业性信息（如优惠活动、新品推荐），将事先获得您的同意，您可随时通过平台设置关闭此类推送；</text>
+        <text class="list-item">• 邀请您参与产品或服务调查，收集您的反馈以提升服务水平；</text>
+        <text class="list-item">• 履行法律义务或协议约定，如根据《寰才智聘用户协议》管理账户、处理纠纷等；</text>
+        <text class="list-item">• 法律法规允许的其他合法用途。</text>
+      </view>
+      <text class="paragraph">我们承诺：不会向任何无关第三方出售、出租、转让您的个人信息；不允许任何第三方以任何手段非法收集、编辑、出售或传播您的个人信息，如发现第三方存在上述行为，我们有权终止其与平台的合作，并追究其法律责任。</text>
+    </view>
+
+    <view class="section">
+      <text class="section-title">四、信息披露</text>
+      <text class="paragraph">除以下法定或约定情形外，我们不会未经您的明确授权披露您的个人信息：</text>
+      <view class="list">
+        <text class="list-item">• 根据法律法规的规定，或行政机关、司法机关的合法要求，必须向第三方或有权机关披露；</text>
+        <text class="list-item">• 为提供您要求的服务，必须与第三方共享信息（如委托第三方进行证书制作、物流配送等），我们会要求第三方仅用于指定服务目的，并对其信息处理行为进行监督；</text>
+        <text class="list-item">• 为保护我们及关联方、用户或社会公众的合法权益、财产或安全，在合理必要范围内披露（如防范欺诈行为、保护用户人身安全等）；</text>
+        <text class="list-item">• 如您出现违反法律法规、《寰才智聘用户协议》或平台规则的行为，为维护平台秩序或第三方合法权益，需向相关方披露；</text>
+        <text class="list-item">• 在涉及合并、收购、资产转让或类似交易时，如涉及个人信息转让，我们会要求受让方继续受本政策约束，否则将要求其重新获得您的授权同意。</text>
+      </view>
+    </view>
+
+    <view class="section">
+      <text class="section-title">五、信息存储和交换</text>
+      <text class="paragraph">我们收集的您的个人信息，将存储在我们及/或关联公司的合法运营服务器上，存储地点包括中国境内及符合数据保护法规的境外地区。我们会采取加密存储、访问权限控制等措施，确保信息在存储和传输过程中的安全。</text>
+      <text class="paragraph">信息存储期限将遵循"最小必要"及"合法期限"原则：如为提供服务所必需，将存储至服务终止后合理期限；如为履行法律义务或处理纠纷所需，将存储至义务履行完毕或纠纷解决后合理期限。超出存储期限的信息，我们将采取匿名化处理或安全删除措施。</text>
+    </view>
+
+    <view class="section">
+      <text class="section-title">六、信息安全</text>
+      <text class="paragraph">我们已建立健全信息安全管理制度，采取多项技术和管理措施保障您的信息安全：</text>
+      <view class="list">
+        <text class="list-item">• 技术保障：采用数据加密、防火墙、入侵检测等技术，防止信息被未授权访问、篡改或泄露；</text>
+        <text class="list-item">• 管理保障：建立信息安全管理团队，明确访问权限，定期开展安全培训和审计，确保内部人员依法依规处理信息；</text>
+        <text class="list-item">• 应急响应：制定信息安全事件应急预案，如发生信息泄露、丢失等事件，将及时采取补救措施，并按照法律法规要求通知您及相关监管部门。</text>
+      </view>
+      <text class="paragraph">同时，您也应履行信息安全责任：妥善保管账户密码、手机验证码等身份凭证，不向他人泄露；如发现账户异常登录、信息泄露等情况，应立即联系我们的客服，我们将协助您采取冻结账户、修改密码等保护措施。因您自身保管不当导致的信息安全风险，由您自行承担。</text>
+    </view>
+
+    <view class="section">
+      <text class="section-title">七、您的权利</text>
+      <text class="paragraph">根据相关法律法规，您对您的个人信息享有以下权利，我们将为您提供便捷的行使途径：</text>
+      <view class="list">
+        <text class="list-item">• 查询与更正权：您可通过平台"个人中心"查询您的个人信息，并对不准确的信息进行更正。如需更正身份证号码等关键信息，可联系客服并提供有效证明材料；</text>
+        <text class="list-item">• 删除权：如您认为我们收集的信息超出必要范围，或存在违法收集、使用情形，可申请删除相关信息。我们将在核实身份后，对符合条件的信息予以删除；</text>
+        <text class="list-item">• 撤回同意权：您可随时撤回对商业信息推送、第三方信息共享等的同意，通过平台设置或联系客服即可操作。撤回同意不影响此前基于同意的信息处理行为的合法性；</text>
+        <text class="list-item">• 注销权：您可申请注销账户，注销后我们将停止为您提供服务，并对您的个人信息进行匿名化处理或安全删除（法律法规要求保留的除外）。</text>
+      </view>
+      <text class="paragraph">为保障账户安全，我们在处理您的上述请求时，可能会要求您进行身份验证，验证通过后将在15个工作日内反馈处理结果。</text>
+    </view>
+
+    <view class="section">
+      <text class="section-title">八、Cookie的使用</text>
+      <text class="paragraph">Cookie是网站或应用为识别用户身份、记录使用偏好而存储在用户设备上的小型数据文件。我们或我们的第三方合作伙伴可能会使用Cookie，具体用途如下：</text>
+      <view class="list">
+        <text class="list-item">• 记住您的账户身份，避免重复登录，提升使用便捷性；</text>
+        <text class="list-item">• 分析您的使用行为，如学习时长、课程偏好等，用于优化服务及个性化推荐；</text>
+        <text class="list-item">• 保障服务安全，识别异常登录行为，防范风险。</text>
+      </view>
+      <text class="paragraph">您有权选择接受或拒绝Cookie：可通过修改浏览器或设备设置拒绝接受Cookie，但如您拒绝，可能无法使用依赖Cookie的服务功能（如自动登录、个性化推荐等）。通过Cookie获取的信息，将适用本政策的规定。</text>
+    </view>
+
+    <view class="section">
+      <text class="section-title">九、未成年人保护</text>
+      <text class="paragraph">我们特别重视未成年人的信息保护，如您为未满18周岁的未成年人，应在父母或监护人的陪同下阅读本政策，并在获得监护人明确同意后注册使用服务、提供个人信息。</text>
+      <text class="paragraph">对于未满14周岁的未成年人（儿童），我们将遵循《儿童个人信息网络保护规定》，仅在征得监护人同意后收集、使用其个人信息，且收集的信息范围限于提供服务所必需的最小范围。监护人可联系我们查询、更正或删除儿童的个人信息，我们将提供必要协助。</text>
+    </view>
+
+    <view class="section">
+      <text class="section-title">十、隐私政策的变更</text>
+      <text class="paragraph">我们可能根据业务发展、技术更新或法律法规变化，适时修订本政策。如变更内容涉及您的核心权利（如信息收集范围扩大、使用目的变更、披露规则调整等），我们将在变更生效前至少提前七日，通过平台首页显著位置公告、站内信、电子邮件等方式通知您，确保您充分了解变更内容。</text>
+      <text class="paragraph">您继续使用我们的服务，即视为接受修订后的政策；如您不同意变更，可停止使用服务，双方权利义务按原政策执行。建议您定期查看本政策，了解最新内容。</text>
+    </view>
+
+    <view class="section last-section">
+      <text class="paragraph">感谢您对寰才智聘隐私保护工作的理解与支持！我们将持续提升信息保护水平，保障您的合法权益。</text>
+      <text class="paragraph">本政策自发布之日起生效。</text>
+      <view class="signature-area">
+        <text class="paragraph signature">浙江和慧眼数智科技有限公司</text>
+        <text class="paragraph signature">2025年12月22日</text>
+      </view>
+    </view>
+  </scroll-view>
+</view>
