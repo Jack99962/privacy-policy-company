@@ -1,19 +1,19 @@
 <view class="container">
   <view class="header">
-    <text class="title">寰才智聘用户协议</text>
+    <text class="title">寰才数聘用户协议</text>
     <text class="update-time">最后更新时间：2026年05月08日</text>
   </view>
   
   <scroll-view class="content" scroll-y="true">
     <view class="section">
-      <text class="paragraph">欢迎您使用寰才智聘（以下简称"我们"）提供的产品和服务。请您（以下统称"用户"）仔细阅读、充分理解以下全部内容，其中限制或免除责任的条款，以及涉及用户重大权益的条款（如违约处罚、争议管辖等）已加粗标注，请重点关注。</text>
+      <text class="paragraph">欢迎您使用寰才数聘（以下简称"我们"）提供的产品和服务。请您（以下统称"用户"）仔细阅读、充分理解以下全部内容，其中限制或免除责任的条款，以及涉及用户重大权益的条款（如违约处罚、争议管辖等）已加粗标注，请重点关注。</text>
     </view>
 
     <view class="section">
       <text class="section-title">一、协议的接受与修订</text>
       
       <text class="subsection-title">1.1</text>
-      <text class="paragraph">本协议是用户与寰才智聘之间关于注册、使用寰才智聘提供的职业技能培训、课程学习、证书认证等产品和服务（以下统称"平台服务"）所订立的合法协议。用户通过页面确认、下载安装、登录使用等任何方式明示或默示接受本协议，即表示与我们达成协议，自愿接受本协议全部内容。如不同意本协议任意条款，请勿注册或使用平台服务。</text>
+      <text class="paragraph">本协议是用户与寰才数聘之间关于注册、使用寰才数聘提供的职业技能培训、课程学习、证书认证等产品和服务（以下统称"平台服务"）所订立的合法协议。用户通过页面确认、下载安装、登录使用等任何方式明示或默示接受本协议，即表示与我们达成协议，自愿接受本协议全部内容。如不同意本协议任意条款，请勿注册或使用平台服务。</text>
       
       <text class="subsection-title">1.2</text>
       <text class="paragraph">本协议效力及于所有平台服务，除非我们另行明确声明，用户使用任何单项服务时，均受本协议约束。若单项服务有单独条款（如课程服务规则、认证须知等），则单项条款与本协议同时生效，同类条款冲突时以单项条款为准。</text>
@@ -216,7 +216,7 @@
       <text class="paragraph">本协议适用中华人民共和国法律，排除冲突法适用。</text>
       
       <text class="subsection-title">12.2</text>
-      <text class="paragraph">双方发生争议时，应首先协商解决；协商不成的，任何一方可向寰才智聘所在地有管辖权的人民法院提起诉讼。</text>
+      <text class="paragraph">双方发生争议时，应首先协商解决；协商不成的，任何一方可向寰才数聘所在地有管辖权的人民法院提起诉讼。</text>
     </view>
 
     <view class="section">

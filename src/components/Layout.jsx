@@ -10,6 +10,7 @@ export default function Layout({ pages }) {
             <NavLink
               key={page.path}
               to={page.path}
+              replace
               className={({ isActive }) =>
                 `tab-link${isActive ? " tab-link-active" : ""}`
               }
