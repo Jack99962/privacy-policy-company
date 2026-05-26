@@ -1,7 +1,7 @@
 <view class="container">
   <view class="header">
     <text class="title">寰才数聘隐私政策</text>
-    <text class="update-time">最后更新时间：2025年12月22日</text>
+    <text class="update-time">最后更新时间：2026年05月22日</text>
   </view>
   
   <scroll-view class="content" scroll-y="true">
@@ -120,7 +120,7 @@
       <text class="paragraph">本政策自发布之日起生效。</text>
       <view class="signature-area">
         <text class="paragraph signature">浙江和慧眼数智科技有限公司</text>
-        <text class="paragraph signature">2025年12月22日</text>
+        <text class="paragraph signature">2026年05月22日</text>
       </view>
     </view>
   </scroll-view>

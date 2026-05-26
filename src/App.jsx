@@ -1,6 +1,7 @@
 import { Navigate, Route, Routes } from "react-router-dom";
 import Layout from "./components/Layout";
 import AgreementPage from "./pages/AgreementPage";
+import CertificationQueryingPage from "./pages/CertificationQueryingPage";
 
 import userAgreementAxml from "../userAgreement/index.axml?raw";
 import privacyPolicyAxml from "../privacyPolicy/index.axml?raw";
@@ -27,6 +28,10 @@ const pages = [
 export default function App() {
   return (
     <Routes>
+      <Route
+        path="/certification-result-querying"
+        element={<CertificationQueryingPage />}
+      />
       <Route element={<Layout pages={pages} />}>
         <Route index element={<Navigate to="/user-agreement" replace />} />
         {pages.map((page) => (

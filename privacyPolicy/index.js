@@ -1,7 +1,7 @@
 Page({
   data: {
     title: '寰才数聘隐私政策',
-    updateTime: '最后更新时间：2025年12月22日'
+    updateTime: '最后更新时间：2026年05月22日'
   },
 
   onLoad(options) {

@@ -1,7 +1,7 @@
 <view class="container">
   <view class="header">
     <text class="title">个人信息使用授权协议</text>
-    <text class="update-time">最后更新时间：2025年12月22日</text>
+    <text class="update-time">最后更新时间：2026年05月22日</text>
   </view>
   
   <scroll-view class="content" scroll-y="true">
@@ -162,7 +162,7 @@
       <text class="paragraph-bold">授权方（用户）确认：本人已仔细阅读并充分理解本协议全部内容，自愿作出上述授权，同意承担由此产生的法律后果。</text>
       <view class="signature-area">
         <text class="paragraph signature">浙江和慧眼数智科技有限公司</text>
-        <text class="paragraph signature">2025年12月22日</text>
+        <text class="paragraph signature">2026年05月22日</text>
       </view>
     </view>
   </scroll-view>
