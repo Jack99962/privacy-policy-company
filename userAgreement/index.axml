@@ -1,7 +1,7 @@
 <view class="container">
   <view class="header">
-    <text class="title">寰才数聘用户协议</text>
-    <text class="update-time">最后更新时间：2026年05月22日</text>
+    <text class="title">用户协议</text>
+    <text class="update-time">最后更新时间：2026年5月27日</text>
   </view>
   
   <scroll-view class="content" scroll-y="true">
@@ -11,39 +11,30 @@
 
     <view class="section">
       <text class="section-title">一、协议的接受与修订</text>
-      
       <text class="subsection-title">1.1</text>
       <text class="paragraph">本协议是用户与寰才数聘之间关于注册、使用寰才数聘提供的职业技能培训、课程学习、证书认证等产品和服务（以下统称"平台服务"）所订立的合法协议。用户通过页面确认、下载安装、登录使用等任何方式明示或默示接受本协议，即表示与我们达成协议，自愿接受本协议全部内容。如不同意本协议任意条款，请勿注册或使用平台服务。</text>
-      
       <text class="subsection-title">1.2</text>
       <text class="paragraph">本协议效力及于所有平台服务，除非我们另行明确声明，用户使用任何单项服务时，均受本协议约束。若单项服务有单独条款（如课程服务规则、认证须知等），则单项条款与本协议同时生效，同类条款冲突时以单项条款为准。</text>
-      
       <text class="subsection-title">1.3</text>
       <text class="paragraph">我们有权根据业务发展和合规要求修改本协议，通过在网页上发出公告等合理方式修改本服务条款以及各单项条款。用户在享受终身教育平台各单项服务时，应当及时查阅了解修改的内容，并自觉遵守本服务条款以及该单项服务的相关条款。用户如继续使用本服务条款涉及的产品和服务，则视为对修改内容的同意，当发生有关争议时，以最新的条款内容为准；用户在不同意修改内容的情况下，有权停止使用本服务条款涉及的产品和服务。</text>
     </view>
 
     <view class="section">
       <text class="section-title">二、服务简介</text>
-      
       <text class="subsection-title">2.1</text>
       <text class="paragraph">平台服务主要包括：职业技能培训课程、在线学习系统、学习数据统计、证书认证申请与查询等相关服务，具体以平台实际提供的内容为准。</text>
-      
       <text class="subsection-title">2.2</text>
       <text class="paragraph">用户账号以手机号码为注册标识，注册成功后账号归属用户使用，但账号所有权（手机号码本身除外）及注册、使用过程中的服务数据（含登录记录、学习数据、客服记录等）归我们或具体运营主体所有。</text>
-      
       <text class="subsection-title">2.3</text>
       <text class="paragraph">用户使用平台服务需自行提供上网设备（如电脑、手机等），并承担上网费用及相关服务消费支出。</text>
     </view>
 
     <view class="section">
       <text class="section-title">三、账户注册与使用规则</text>
-      
       <text class="subsection-title">3.1</text>
       <text class="paragraph">用户注册及使用服务时，必须具备中华人民共和国法律规定的民事行为能力。未满18周岁的未成年人应在监护人陪同下阅读本协议，经监护人同意后方可注册使用，如发生违约行为，我们有权向监护人追偿。</text>
-      
       <text class="subsection-title">3.2</text>
       <text class="paragraph">用户不得为任何国家、国际组织实施的贸易限制、制裁对象，也不得为其提供服务，否则可能无法正常注册使用平台服务。</text>
-      
       <text class="subsection-title">3.3</text>
       <text class="paragraph">注册资料包括手机号码、密码、头像、昵称及其他补充信息，用户承诺资料真实、合法、有效，不得含有违法不良信息，注册及使用过程中不得有以下情形：</text>
       <view class="list">
@@ -59,23 +50,18 @@
         <text class="list-item">• 侮辱、诽谤他人，侵害他人合法权益的；</text>
         <text class="list-item">• 含有其他法律、行政法规禁止的内容。</text>
       </view>
-      
       <text class="subsection-title">3.4</text>
       <text class="paragraph">依据法律规定及服务需要，用户同意注册时提交有效身份信息进行实名认证（含手机号码验证），并及时更新注册资料。资料不完整或不准确的，可能无法使用服务或受到使用限制，证件号码提交后不可修改。</text>
-      
       <text class="subsection-title">3.5</text>
       <text class="paragraph">注册资料是认定用户身份及账号归属的唯一依据，发生争议时，以我们的系统数据为准，我们保证该数据的真实性。</text>
     </view>
 
     <view class="section">
       <text class="section-title">四、服务的变更、中止与终止</text>
-      
       <text class="subsection-title">4.1</text>
       <text class="paragraph">我们有权根据业务发展优化服务内容，可能增加、删除功能或暂停、终止某项服务。</text>
-      
       <text class="subsection-title">4.2</text>
       <text class="paragraph">用户不接受服务变更的，可申请退出平台，我们不得阻止，并按变更前协议承担责任。</text>
-      
       <text class="subsection-title">4.3</text>
       <text class="paragraph">出现以下情形时，我们有权中止、终止服务且不承担责任：</text>
       <view class="list">
@@ -84,33 +70,26 @@
         <text class="list-item">• 为配合监管要求或维护平台安全，需要临时中止服务的；</text>
         <text class="list-item">• 用户账号连续12个月未登录使用且无法联系的。</text>
       </view>
-      
       <text class="subsection-title">4.4</text>
       <text class="paragraph">平台保留在任何时候收回用户账号的权利。平台收回或注销账号将说明具体理由，不得无理由收回用户账号。</text>
     </view>
 
     <view class="section">
       <text class="section-title">五、账号安全与保障</text>
-      
       <text class="subsection-title">5.1</text>
       <text class="paragraph">用户应妥善保管账号密码，对账号操作行为承担全部责任。因密码泄露、账号转借导致的损失，由用户自行承担。</text>
-      
       <text class="subsection-title">5.2</text>
       <text class="paragraph">账号仅限初始注册人使用，未经我们书面许可，不得赠与、借用、出租、转让或售卖账号，否则我们有权中止、终止服务并追究责任。</text>
-      
       <text class="subsection-title">5.3</text>
       <text class="paragraph">用户发现账号异常使用或安全漏洞，应立即通知我们，我们将协助冻结账号、修改密码等。因采取措施产生的合理延迟导致的损失，我们不承担责任。</text>
-      
       <text class="subsection-title">5.4</text>
       <text class="paragraph">我们会通过技术升级保障账号安全，发现账号存在安全隐患时，可采取身份验证、暂停使用等保护措施，用户拒绝配合的，我们有权限制或终止服务。用户可通过注册手机号申请账号修复，需提供真实资料供核实，修复申请不必然通过。</text>
     </view>
 
     <view class="section">
       <text class="section-title">六、用户行为规范</text>
-      
       <text class="subsection-title">6.1</text>
       <text class="paragraph">用户使用服务需遵守法律法规及平台规则，不得从事违法违规、干扰服务运营或侵害他人权益的行为。</text>
-      
       <text class="subsection-title">6.2</text>
       <text class="paragraph">不得制作、上传、传播以下信息：</text>
       <view class="list">
@@ -120,7 +99,6 @@
         <text class="list-item">• 商业广告、过度营销或垃圾信息；</text>
         <text class="list-item">• 无意义内容或规避审核的字符组合。</text>
       </view>
-      
       <text class="subsection-title">6.3</text>
       <text class="paragraph">不得从事以下行为：</text>
       <view class="list">
@@ -130,7 +108,6 @@
         <text class="list-item">• 使用作弊手段参与课程学习、考核认证等活动；</text>
         <text class="list-item">• 干扰或破坏平台服务正常运行的其他行为。</text>
       </view>
-      
       <text class="subsection-title">6.4</text>
       <text class="paragraph">未经我们许可，不得从事以下行为：</text>
       <view class="list">
@@ -143,78 +120,60 @@
 
     <view class="section">
       <text class="section-title">七、知识产权声明</text>
-      
       <text class="subsection-title">7.1</text>
       <text class="paragraph">平台所有内容（文字、图片、音频、视频、软件、商标等）的知识产权归我们或相关权利人所有，受法律保护。未经授权，用户不得使用、修改、复制、传播相关内容。</text>
-      
       <text class="subsection-title">7.2</text>
       <text class="paragraph">用户上传、发布的内容，知识产权归用户所有，但用户需保证内容为原创或已获得合法授权，不侵犯第三方权益。用户上传内容即授予我们全球性免费许可，允许我们用于服务运营、推广等用途，包括使用、复制、修改、展示等。</text>
-      
       <text class="subsection-title">7.3</text>
       <text class="paragraph">我们有权以自身名义或委托第三方，对侵犯平台或用户知识产权的行为采取投诉、诉讼等维权措施。</text>
     </view>
 
     <view class="section">
       <text class="section-title">八、隐私保护</text>
-      
       <text class="subsection-title">8.1</text>
       <text class="paragraph">我们重视隐私保护，将按照《隐私政策》收集、使用、存储和分享用户个人信息，《隐私政策》为本协议组成部分，用户应仔细阅读。</text>
-      
       <text class="subsection-title">8.2</text>
       <text class="paragraph">未满14周岁的未成年人使用服务，需由监护人陪同阅读《隐私政策》及本协议，经监护人同意后方可提交个人信息。我们将针对未成年人信息采取特殊保护措施。</text>
-      
       <text class="subsection-title">8.3</text>
       <text class="paragraph">除法律要求或用户同意外，我们不会向第三方披露个人信息。</text>
     </view>
 
     <view class="section">
       <text class="section-title">九、责任承担与限制</text>
-      
       <text class="subsection-title">9.1</text>
       <text class="paragraph">用户需对自身使用服务的行为及上传内容承担法律责任，因用户行为导致我们或第三方损失的，用户需承担赔偿责任，包括我们先行赔付后的追偿金额。</text>
-      
       <text class="subsection-title">9.2</text>
       <text class="paragraph">我们发现用户存在违法违规行为，有权采取删除内容、限制功能、冻结账号等措施，并保存信息向监管部门报告，由此产生的损失由用户自行承担，已支付未使用的费用不予退还。</text>
-      
       <text class="subsection-title">9.3</text>
       <text class="paragraph">我们会定期更新服务软件，用户应及时升级至最新版本，因未升级导致无法使用服务的，我们不承担责任。</text>
-      
       <text class="subsection-title">9.4</text>
       <text class="paragraph">我们尽力保障服务安全，但对以下情况不承担责任：信息删除或存储失败、第三方侵权行为、用户自身操作失误导致的损失。</text>
-      
       <text class="subsection-title">9.5</text>
       <text class="paragraph">在法律允许范围内，我们不对间接性、惩罚性、特殊性或衍生性损失承担赔偿责任。</text>
     </view>
 
     <view class="section">
       <text class="section-title">十、不可抗力及免责事由</text>
-      
       <text class="subsection-title">10.1</text>
       <text class="paragraph">因不可抗力（包括自然灾害、疫情、战争、政府行为、通信中断、网络攻击等）导致服务中断或延误的，我们不承担责任。</text>
-      
       <text class="subsection-title">10.2</text>
       <text class="paragraph">因机房维护、设备检修、系统升级等计划性工作需要中断服务的，我们将提前三日公示，由此导致的损失不承担责任。</text>
-      
       <text class="subsection-title">10.3</text>
       <text class="paragraph">因用户自身设备故障、网络问题或第三方服务故障导致的损失，我们不承担责任。</text>
     </view>
 
     <view class="section">
       <text class="section-title">十一、通知与送达</text>
-      
       <text class="subsection-title">11.1</text>
       <text class="paragraph">我们通过平台公告、电子邮件、短信、站内信等方式向用户发送通知，公告自发布之日起生效，其他通知自送达时生效。</text>
-      
       <text class="subsection-title">11.2</text>
       <text class="paragraph">用户同意我们通过上述方式发送与平台服务相关的商业短信息及宣传内容（包括但不限于服务通知、业务推广、活动提醒等符合国家规定的商业性通信短信息），我方将严格遵守2026年5月1日正式施行的新修订《通信短信息服务管理规定》，绝不未经您明示同意擅自发送任何商业短信息及宣传内容，同时留存您明示同意的相关凭证不少于六个月，若您后续不再希望接收相关短信息及宣传内容，可通过平台设置、短信退订等合法合规方式自主取消订阅，我方将在收到您的取消请求后，及时停止向您发送相关内容，确保您的合法权益不受侵害。</text>
     </view>
 
     <view class="section">
       <text class="section-title">十二、法律适用与争议解决</text>
-      
       <text class="subsection-title">12.1</text>
       <text class="paragraph">本协议适用中华人民共和国法律，排除冲突法适用。</text>
-      
       <text class="subsection-title">12.2</text>
       <text class="paragraph">双方发生争议时，应首先协商解决；协商不成的，任何一方可向寰才数聘所在地有管辖权的人民法院提起诉讼。</text>
     </view>
@@ -226,19 +185,14 @@
 
     <view class="section">
       <text class="section-title">十四、其他</text>
-      
       <text class="subsection-title">14.1</text>
       <text class="paragraph">本协议构成双方完整协议，取代此前所有口头或书面约定。</text>
-      
       <text class="subsection-title">14.2</text>
       <text class="paragraph">本协议条款部分无效或不可执行的，不影响其余条款效力，双方应尽力实现该条款本意。</text>
-
       <text class="subsection-title">14.3</text>
       <text class="paragraph">我们未行使或延迟行使权利，不视为放弃该权利。</text>
-      
       <text class="subsection-title">14.4</text>
       <text class="paragraph">如对本协议有疑问，可联系客服：18357101717。</text>
-      
       <text class="subsection-title">14.5</text>
       <text class="paragraph">本协议自用户注册或首次使用服务之日起生效。</text>
     </view>
@@ -246,8 +200,9 @@
     <view class="section last-section">
       <view class="signature-area">
         <text class="paragraph signature">浙江和慧眼数智科技有限公司</text>
-        <text class="paragraph signature">2026年05月22日</text>
+        <text class="paragraph signature">2026年5月27日</text>
       </view>
     </view>
+
   </scroll-view>
 </view>

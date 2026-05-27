@@ -1,7 +1,7 @@
 <view class="container">
   <view class="header">
     <text class="title">个人信息使用授权协议</text>
-    <text class="update-time">最后更新时间：2026年05月22日</text>
+    <text class="update-time">最后更新时间：2026年5月27日</text>
   </view>
   
   <scroll-view class="content" scroll-y="true">
@@ -11,33 +11,26 @@
 
     <view class="section">
       <text class="section-title">一、协议的接受与修订</text>
-      
       <text class="subsection-title">1.1</text>
-      <text class="paragraph">本协议是您（授权方）与寰才数聘之间关于就个人信息使用授权事宜达成的法律协议。用户通过页面确认、下载安装、登录使用等任何方式明示或默示接受本协议，即表示与我们达成协议，自愿接受本协议全部内容。如不同意本协议任意条款，请勿注册或使用平台服务。</text>
-      
+      <text class="paragraph">本协议是您（授权方）与被授权方之间关于就个人信息使用授权事宜达成的法律协议。用户通过页面确认、下载安装、登录使用等任何方式明示或默示接受本协议，即表示与我们达成协议，自愿接受本协议全部内容。如不同意本协议任意条款，请勿注册或使用平台服务。</text>
       <text class="subsection-title">1.2</text>
       <text class="paragraph">本协议效力及于所有平台服务，除非我们另行明确声明，用户使用任何单项服务时，均受本协议约束。若单项服务有单独条款（如课程服务规则、认证须知等），则单项条款与本协议同时生效，同类条款冲突时以单项条款为准。</text>
-      
       <text class="subsection-title">1.3</text>
       <text class="paragraph">我们有权根据业务发展和合规要求修改本协议，通过在网页上发出公告等合理方式修改本服务条款以及各单项条款。用户在享受终身教育平台各单项服务时，应当及时查阅了解修改的内容，并自觉遵守本服务条款以及该单项服务的相关条款。用户如继续使用本服务条款涉及的产品和服务，则视为对修改内容的同意，当发生有关争议时，以最新的条款内容为准；用户在不同意修改内容的情况下，有权停止使用本服务条款涉及的产品和服务。</text>
-      
       <text class="subsection-title">1.4</text>
       <text class="paragraph">本协议是您（授权方）与【浙江和慧眼数智科技有限公司】（被授权方，统一社会信用代码：【91330327MA2856HG0Y】）就个人信息使用授权事宜达成的法律协议。请您审慎阅读、充分理解本协议全部条款，特别是免除或限制被授权方责任、限制您权利的条款。您勾选"同意"、点击"确认"或以其他方式接受本协议，即视为您已阅读并同意本协议所有条款的约束</text>
     </view>
 
     <view class="section">
       <text class="section-title">二、授权依据与目的</text>
-      
       <text class="subsection-title">2.1</text>
       <text class="paragraph">授权目的包括但不限于：求职入职全流程服务、人才匹配服务、被授权方服务优化所需的匿名化数据分析、系统安全适配、法律法规要求的合规备案、反欺诈验证及与上述目的直接相关的辅助性使用。被授权方基于上述合理目的的信息使用，无需另行取得授权方同意。</text>
-      
       <text class="subsection-title">2.2</text>
       <text class="paragraph">未经您（授权方）另行明确同意，被授权方不得将授权信息用于本协议约定以外的其他目的。</text>
     </view>
 
     <view class="section">
       <text class="section-title">三、授权范围</text>
-      
       <text class="subsection-title">3.1</text>
       <text class="paragraph">授权信息内容：您同意被授权方收集、使用、存储、处理您的以下个人信息（遵循"最小必要"原则）：</text>
       <view class="list">
@@ -47,13 +40,10 @@
         <text class="list-item">服务使用信息：账号登录记录、浏览记录、操作行为、留资信息、面试记录等；</text>
         <text class="list-item">其他信息：如：生物识别信息（人脸信息，用于身份验证）、设备信息（设备型号、IP地址，用于安全保障）等。</text>
       </view>
-      
       <text class="subsection-title">3.2</text>
       <text class="paragraph">授权使用方式：包括但不限于收集、存储、使用、加工、传输、验证、展示（仅限服务必要范围）、归档等。</text>
-      
       <text class="subsection-title">3.3</text>
       <text class="paragraph">授权地域范围：中华人民共和国境内（如涉及跨境传输，需另行取得您的明确同意，并符合相关法律法规规定）。</text>
-      
       <text class="subsection-title">3.4</text>
       <text class="paragraph">授权期限：自您同意本协议之日起生效，至以下情形之一发生时终止：</text>
       <view class="list">
@@ -68,37 +58,26 @@
     <view class="section">
       <text class="section-title">四、双方权利与义务</text>
       <text class="subsection-title">（一）授权方权利与义务</text>
-      
       <text class="subsection-title">4.1</text>
       <text class="paragraph">有权知悉被授权方对个人信息的处理规则及处理情况；</text>
-      
       <text class="subsection-title">4.2</text>
       <text class="paragraph">有权随时撤回本协议项下的授权（需通过本协议约定方式操作）；</text>
-      
       <text class="subsection-title">4.3</text>
       <text class="paragraph">有权要求被授权方更正不准确的个人信息，或删除无必要留存的个人信息；</text>
-      
       <text class="subsection-title">4.4</text>
       <text class="paragraph">应保证提供的个人信息真实、准确、完整，如信息发生变更，应及时更新；</text>
-      
       <text class="subsection-title">4.5</text>
       <text class="paragraph">应妥善保管个人账号信息，因自身原因导致信息泄露的，自行承担相应责任；</text>
-      
       <text class="subsection-title">（二）被授权方权利与义务</text>
-      
       <text class="subsection-title">4.6</text>
       <text class="paragraph">有权在授权范围内依法处理您的个人信息，有权拒绝超出授权范围的信息使用请求；</text>
-      
       <text class="subsection-title">4.7</text>
       <text class="paragraph">应采取符合行业标准的技术和管理措施保护个人信息安全，包括但不限于加密存储、访问控制、安全审计、定期漏洞扫描等，防止信息泄露、篡改、丢失；</text>
       <text class="paragraph">未经您明确同意，不得将您的个人信息向任何第三方披露或共享（法律法规另有规定、有权机关依法要求的除外；如委托第三方处理，需对第三方进行监督，确保其履行保密义务）；</text>
-      
       <text class="subsection-title">4.8</text>
       <text class="paragraph">应保障您依法行使个人信息相关权利，在收到您的查询、更正、删除、撤回授权等请求后，于【30】个工作日内予以响应并处理；</text>
-      
       <text class="subsection-title">4.9</text>
       <text class="paragraph">如发生或可能发生个人信息安全事件，应立即采取补救措施，并在【72】小时内在平台显著位置发布公告（告知事件基本情况、影响范围、处置措施等），同时按规定向相关监管部门报告。</text>
-      
       <text class="subsection-title">4.10</text>
       <text class="paragraph">被授权方仅作为信息传输媒介，已履行对 B 端企业跨境合规文件的形式审查义务，不对文件真实性、合法性承担实质担保责任；</text>
     </view>
@@ -110,29 +89,22 @@
 
     <view class="section">
       <text class="section-title">六、授权的撤回</text>
-      
       <text class="subsection-title">6.1</text>
       <text class="paragraph">您可通过以下方式撤回授权：如：平台"个人中心-隐私设置-撤回授权"模块操作、拨打官方客服电话申请、发送书面申请至官方邮箱等。</text>
-      
       <text class="subsection-title">6.2</text>
       <text class="paragraph">撤回授权后，被授权方应于7个工作日内停止基于该授权的个人信息处理活动，但已完成的、基于授权且无法避免的处理活动除外；不影响撤回前基于合法授权的信息处理行为的有效性。</text>
-      
       <text class="subsection-title">6.3</text>
       <text class="paragraph">被授权方不得因您撤回授权而对您采取不合理的差别待遇。</text>
     </view>
 
     <view class="section">
       <text class="section-title">七、违约责任</text>
-      
       <text class="subsection-title">7.1</text>
       <text class="paragraph">若您提供虚假个人信息导致被授权方或第三方损失的，应承担相应赔偿责任。</text>
-      
       <text class="subsection-title">7.2</text>
       <text class="paragraph">若被授权方违反本协议约定，未按规定处理或保护您的个人信息，导致您合法权益受损的，应承担赔偿责任；情节严重的，您有权追究其法律责任。</text>
-      
       <text class="subsection-title">7.3</text>
       <text class="paragraph">被授权方仅负责在授权方单独同意范围内，将信息精准传输给 B 端企业，不对B端企业及国外雇主的信息使用行为承担监督责任。</text>
-      
       <text class="subsection-title">7.4</text>
       <text class="paragraph">若B端企业或国外雇主违反本协议约定，超出授权范围使用、泄露、篡改授权方个人信息，由B端企业承担全部赔偿责任，授权方不得要求被授权方承担连带责任。</text>
     </view>
@@ -144,16 +116,12 @@
 
     <view class="section">
       <text class="section-title">九、其他条款</text>
-      
       <text class="subsection-title">9.1</text>
       <text class="paragraph">本协议未尽事宜，应遵循《中华人民共和国个人信息保护法》等相关法律法规规定；被授权方的隐私政策是本协议的补充，与本协议具有同等法律效力。</text>
-      
       <text class="subsection-title">9.2</text>
       <text class="paragraph">被授权方若需变更本协议条款，应通过平台显著位置公示变更内容及生效时间，您继续使用服务即视为同意变更后的协议。</text>
-      
       <text class="subsection-title">9.3</text>
       <text class="paragraph">本协议以电子形式签署，授权方的电子签名、点击'同意'的行为视为真实意思表示，电子协议与书面协议具有同等法律效力。</text>
-            
       <text class="subsection-title">9.4</text>
       <text class="paragraph">本协议自用户注册或首次使用服务之日起生效。</text>
     </view>
@@ -162,9 +130,10 @@
       <text class="paragraph-bold">授权方（用户）确认：本人已仔细阅读并充分理解本协议全部内容，自愿作出上述授权，同意承担由此产生的法律后果。</text>
       <view class="signature-area">
         <text class="paragraph signature">浙江和慧眼数智科技有限公司</text>
-        <text class="paragraph signature">2026年05月22日</text>
+        <text class="paragraph signature">2025年12月22日</text>
       </view>
     </view>
+
   </scroll-view>
   
   <!-- <view class="button-container">
