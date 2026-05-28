@@ -162,7 +162,7 @@ body {
 .certification-header-bg {
   position: absolute;
   inset: 0 0 auto;
-  height: 276px;
+  height: 100vh;
   background: linear-gradient(152deg, #c2daff 11%, #e0eeff 30%, rgba(224, 238, 255, 0) 100%);
   mask-image: var(--certification-header-mask);
   mask-repeat: no-repeat;

@@ -11,19 +11,10 @@ export default function CertificationQueryingPage() {
   return (
     <main className="certification-querying-page">
       <section
-        className="certification-querying-screen"
         aria-label="认证结果查询"
-        style={{ "--certification-header-mask": headerMask }}
       >
         <div className="certification-header-bg" aria-hidden="true" />
-        <button
-          className="certification-back-button"
-          type="button"
-          aria-label="返回"
-          onClick={() => navigate(-1)}
-        >
-          <img src={backIcon} alt="" aria-hidden="true" />
-        </button>
+
 
         <div className="certification-querying-state" role="status">
           <img
